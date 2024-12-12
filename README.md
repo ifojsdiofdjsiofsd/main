@@ -1,4 +1,3 @@
-# main
 #include <stdio.h>
 int get_clock_strikes(int hours, int minutes) {
 int total_strikes = 0;
